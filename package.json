@@ -1,7 +1,7 @@
 {
   "scripts": {
     "test": "jest",
-    "start": "tsc ./modThree.ts && node ./modThree.js"
+    "start": "tsc src/modThree.ts && node src/modThree.js"
   },
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.21.2",
